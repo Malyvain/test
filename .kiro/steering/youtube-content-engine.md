@@ -104,11 +104,15 @@ Return as a Style DNA profile. Then STOP.
 
 ## SCRIPT LENGTH CONTROL
 
+**HARD MINIMUM: 10,000 words. ALWAYS. NO EXCEPTIONS.**
+
 Before writing the script:
 
-- Calculate average word count from the transcripts provided
-- Define a TARGET WORD COUNT (±5%)
+- Target word count is **10,000 words minimum** — this overrides any transcript averages
+- If transcript average is below 10,000, still write 10,000+ (extend with more scenes, deeper detail, additional beats)
 - Note the pacing (words/sec) to match the channel's delivery speed
+- Before submitting the script, verify the final word count is 10,000 or higher
+- If under 10,000, expand before delivering — do NOT submit short scripts
 
 ## STATE 6: SCRIPT GENERATION (STYLE LOCKED)
 
@@ -118,14 +122,16 @@ Generate a FULL original script. Rules:
 - Match Style DNA exactly
 - Match pacing, rhythm, and sentence structure
 - Match the emotional flow curve
-- Hit the target word count (±5%)
+- **Hit 10,000 words MINIMUM — never less, ever**
+- Verify final word count before submitting
 
 **MUST NOT:**
 - Use generic YouTube script structures
 - Think about or reference visuals in any way
+- Submit a script under 10,000 words
 
-Before writing: Show the target word count.
-After writing: Show the final word count.
+Before writing: Show the target word count (10,000 minimum).
+After writing: Show the final word count and confirm it is ≥ 10,000.
 
 Then STOP. Do NOT proceed to visuals until user confirms the script.
 
